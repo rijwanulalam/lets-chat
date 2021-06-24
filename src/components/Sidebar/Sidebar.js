@@ -4,7 +4,7 @@ import './Sidebar.css';
 const Sidebar = () => {
     return (
         <div className="sidebar">
-            This is sidebar
+            Yes it is sidebar
         </div>
     );
 };

@@ -4,7 +4,10 @@ import './Sidebar.css';
 const Sidebar = () => {
     return (
         <div className="sidebar">
-            Yes it is sidebar
+            <h1>I am a sidebar</h1>
+            <div className="sidebar_header">
+
+            </div>
         </div>
     );
 };
